@@ -18,8 +18,7 @@ I'm Sejal, somebody who's trying to get through this crazy world while discoveri
 
 #### Code Graveyard Disclaimer ☠️
 
-Just a quick disclaimer! My github profile is mostly graveyard projects from college. Feel free to look around - but remember that **much of this code was written was I was just a student**. Most of my newer code is proprietary (for the moment) so I can't really share it, but feel free to read the sections below on what I'm focusing on.
-I'm also working towards making this profile better and contribute to opensource.
+Just a quick disclaimer! My github profile is mostly graveyard projects from college. Feel free to look around - but remember that **much of this code was written was I was just a student**. Most of my newer code is proprietary (for the moment) so I can't really share it, I'm working towards updating this profile and contribute to opensource.
 
 ### 📫 Say Hi:   
 
