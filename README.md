@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/smohata/count.svg" />
+</p>
+
 <!--
 **SMohata/smohata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
