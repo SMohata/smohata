@@ -22,7 +22,7 @@ Just a quick disclaimer! My github profile is mostly graveyard projects from col
 
 ### 📫 Say Hi:   
 
-Honestly, the best way to reach out to me is probably either via a Direct Message on any of my social accounts. We can talk about technoloy, food, music, unicorns or really anything nice and geeky! I enjoy sharing my experiences, but I enjoy hearing others' personal journeys and opinions more.
+Honestly, the best way to reach out to me is probably via a Direct Message on any of my social accounts. We can talk about technoloy, food, music, unicorns or really anything nice and geeky! I enjoy sharing my experiences, but I enjoy hearing others' personal journeys and opinions more.
 
 #### Social accounts
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/SejalMohata26)
