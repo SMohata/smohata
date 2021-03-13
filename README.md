@@ -34,11 +34,11 @@ Honestly, the best way to reach out to me is probably via a Direct Message on an
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/smohata/smohata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dstarner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smohata&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/smohata/smohata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dstarner&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sejal's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smohata&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sejal's GitHub Stats" />
 </a>
 
 <!--
