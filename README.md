@@ -12,7 +12,7 @@ I'm Sejal, somebody who's trying to get through this crazy world while discoveri
 
 ### Quick Facts ⏩
 
-* 🔭 Website: <https://www.smohata.github.io>
+* 🔭 Website: Portfolio<a href= https://agitated-albattani-77af86.netlify.app/>
 * 😄 Pronouns: She/Her
 * ⚡ Fun Fact: I function on caffeine :coffee:
 
